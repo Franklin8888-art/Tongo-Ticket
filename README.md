@@ -1,1 +1,1 @@
-# Tongo-Ticket Build a ticketing platform for events
+# Tongo-Ticket Build a ticketing platform for event
